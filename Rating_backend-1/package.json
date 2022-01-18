@@ -1,0 +1,16 @@
+{
+  "name": "rating_backend-1",
+  "version": "1.0.0",
+  "description": "user rating",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}
